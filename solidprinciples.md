@@ -3,7 +3,7 @@ These are the principles that are used to build softwares by ensuring the scalab
 
 Let's go through every principle.
 
-## 1. S - Single Responsibility
+## 1. Single Responsibility
 
  ### A class should have only one single responsibilty
  
