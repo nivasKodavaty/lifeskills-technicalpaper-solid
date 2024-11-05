@@ -1,6 +1,5 @@
-# Handling Scenarios with Actors: Harassment and Appropriate Behavior
+# Prevention of Sexual Harassment 
 
-When actors are tasked with enacting sensitive or potentially challenging scenarios, like cases involving harassment, it’s crucial to handle these situations professionally, maintaining clear boundaries and respectful interactions. Here’s a guide on handling these cases and fostering appropriate behavior.
 
 ## 1. **Understanding the Scenario**
 
